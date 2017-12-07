@@ -1,0 +1,1 @@
+forum_posts_controller.rb

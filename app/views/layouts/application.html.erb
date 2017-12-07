@@ -9,6 +9,10 @@
   </head>
 
   <body>
-    <%= yield %>
+    
+	  <%= flash.notice %>
+	  <%= flash.alert %>
+	  <%= yield %>
+	 
   </body>
 </html>
