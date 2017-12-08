@@ -34,7 +34,6 @@ gem 'jbuilder', '~> 2.5'
 # gem 'capistrano-rails', group: :development
 gem 'devise', '~> 4.2'
 gem 'bootstrap', '~> 4.0.0.beta2.1'
-gem 'rails-assets-tether'
 
 group :development do
   gem 'annotate', '~> 2.7', '>= 2.7.1'
